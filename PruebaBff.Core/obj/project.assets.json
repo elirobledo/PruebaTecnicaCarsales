@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Proyectos\\Testes\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\PruebaBff.Core\\PruebaBff.Core.csproj",
+      "projectUniqueName": "C:\\Git\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\PruebaBff.Core\\PruebaBff.Core.csproj",
       "projectName": "PruebaBff.Core",
-      "projectPath": "C:\\Proyectos\\Testes\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\PruebaBff.Core\\PruebaBff.Core.csproj",
+      "projectPath": "C:\\Git\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\PruebaBff.Core\\PruebaBff.Core.csproj",
       "packagesPath": "C:\\Users\\ritalin\\.nuget\\packages\\",
-      "outputPath": "C:\\Proyectos\\Testes\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\PruebaBff.Core\\obj\\",
+      "outputPath": "C:\\Git\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\PruebaBff.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

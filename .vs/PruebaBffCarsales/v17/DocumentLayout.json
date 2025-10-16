@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Git\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E248A62-58D6-48A4-822F-A9C967767D4F}|PruebaBff.Api\\PruebaBff.Api.csproj|c:\\git\\pruebatecnicacarsales\\pruebatecnicacarsales\\pruebabff.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E248A62-58D6-48A4-822F-A9C967767D4F}|PruebaBff.Api\\PruebaBff.Api.csproj|solutionrelative:pruebabff.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F84682-654F-4F4F-919B-BABD094A807A}|PruebaBff.Core\\PruebaBff.Core.csproj|c:\\git\\pruebatecnicacarsales\\pruebatecnicacarsales\\pruebabff.core\\models\\episodedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F84682-654F-4F4F-919B-BABD094A807A}|PruebaBff.Core\\PruebaBff.Core.csproj|solutionrelative:pruebabff.core\\models\\episodedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F84682-654F-4F4F-919B-BABD094A807A}|PruebaBff.Core\\PruebaBff.Core.csproj|c:\\git\\pruebatecnicacarsales\\pruebatecnicacarsales\\pruebabff.core\\interfaces\\irickandmortyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F84682-654F-4F4F-919B-BABD094A807A}|PruebaBff.Core\\PruebaBff.Core.csproj|solutionrelative:pruebabff.core\\interfaces\\irickandmortyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F57CB31-1A25-41F7-85D1-BBACD14D8FBE}|PruebaBff.Infrastructure\\PruebaBff.Infrastructure.csproj|c:\\git\\pruebatecnicacarsales\\pruebatecnicacarsales\\pruebabff.infrastructure\\service\\rickandmortyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F57CB31-1A25-41F7-85D1-BBACD14D8FBE}|PruebaBff.Infrastructure\\PruebaBff.Infrastructure.csproj|solutionrelative:pruebabff.infrastructure\\service\\rickandmortyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E248A62-58D6-48A4-822F-A9C967767D4F}|PruebaBff.Api\\PruebaBff.Api.csproj|c:\\git\\pruebatecnicacarsales\\pruebatecnicacarsales\\pruebabff.api\\controllers\\episodescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E248A62-58D6-48A4-822F-A9C967767D4F}|PruebaBff.Api\\PruebaBff.Api.csproj|solutionrelative:pruebabff.api\\controllers\\episodescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E248A62-58D6-48A4-822F-A9C967767D4F}|PruebaBff.Api\\PruebaBff.Api.csproj|c:\\git\\pruebatecnicacarsales\\pruebatecnicacarsales\\pruebabff.api\\pruebabff.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1E248A62-58D6-48A4-822F-A9C967767D4F}|PruebaBff.Api\\PruebaBff.Api.csproj|solutionrelative:pruebabff.api\\pruebabff.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E248A62-58D6-48A4-822F-A9C967767D4F}|PruebaBff.Api\\PruebaBff.Api.csproj|c:\\git\\pruebatecnicacarsales\\pruebatecnicacarsales\\pruebabff.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1E248A62-58D6-48A4-822F-A9C967767D4F}|PruebaBff.Api\\PruebaBff.Api.csproj|solutionrelative:pruebabff.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F84682-654F-4F4F-919B-BABD094A807A}|PruebaBff.Core\\PruebaBff.Core.csproj|c:\\git\\pruebatecnicacarsales\\pruebatecnicacarsales\\pruebabff.core\\pruebabff.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{81F84682-654F-4F4F-919B-BABD094A807A}|PruebaBff.Core\\PruebaBff.Core.csproj|solutionrelative:pruebabff.core\\pruebabff.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Git\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\PruebaBff.Api\\Program.cs",
+              "RelativeDocumentMoniker": "PruebaBff.Api\\Program.cs",
+              "ToolTip": "C:\\Git\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\PruebaBff.Api\\Program.cs",
+              "RelativeToolTip": "PruebaBff.Api\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T20:57:45.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EpisodesController.cs",
+              "DocumentMoniker": "C:\\Git\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\PruebaBff.Api\\Controllers\\EpisodesController.cs",
+              "RelativeDocumentMoniker": "PruebaBff.Api\\Controllers\\EpisodesController.cs",
+              "ToolTip": "C:\\Git\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\PruebaBff.Api\\Controllers\\EpisodesController.cs",
+              "RelativeToolTip": "PruebaBff.Api\\Controllers\\EpisodesController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAEwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T20:55:01.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PruebaBff.Api.csproj",
+              "DocumentMoniker": "C:\\Git\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\PruebaBff.Api\\PruebaBff.Api.csproj",
+              "RelativeDocumentMoniker": "PruebaBff.Api\\PruebaBff.Api.csproj",
+              "ToolTip": "C:\\Git\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\PruebaBff.Api\\PruebaBff.Api.csproj",
+              "RelativeToolTip": "PruebaBff.Api\\PruebaBff.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-15T20:54:40.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RickAndMortyService.cs",
+              "DocumentMoniker": "C:\\Git\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\PruebaBff.Infrastructure\\Service\\RickAndMortyService.cs",
+              "RelativeDocumentMoniker": "PruebaBff.Infrastructure\\Service\\RickAndMortyService.cs",
+              "ToolTip": "C:\\Git\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\PruebaBff.Infrastructure\\Service\\RickAndMortyService.cs",
+              "RelativeToolTip": "PruebaBff.Infrastructure\\Service\\RickAndMortyService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T20:49:44.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRickAndMortyService.cs",
+              "DocumentMoniker": "C:\\Git\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\PruebaBff.Core\\Interfaces\\IRickAndMortyService.cs",
+              "RelativeDocumentMoniker": "PruebaBff.Core\\Interfaces\\IRickAndMortyService.cs",
+              "ToolTip": "C:\\Git\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\PruebaBff.Core\\Interfaces\\IRickAndMortyService.cs",
+              "RelativeToolTip": "PruebaBff.Core\\Interfaces\\IRickAndMortyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T20:48:29.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EpisodeDto.cs",
+              "DocumentMoniker": "C:\\Git\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\PruebaBff.Core\\Models\\EpisodeDto.cs",
+              "RelativeDocumentMoniker": "PruebaBff.Core\\Models\\EpisodeDto.cs",
+              "ToolTip": "C:\\Git\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\PruebaBff.Core\\Models\\EpisodeDto.cs",
+              "RelativeToolTip": "PruebaBff.Core\\Models\\EpisodeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T20:36:47.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Git\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\PruebaBff.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "PruebaBff.Api\\appsettings.json",
+              "ToolTip": "C:\\Git\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\PruebaBff.Api\\appsettings.json",
+              "RelativeToolTip": "PruebaBff.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-15T20:59:20.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PruebaBff.Core.csproj",
+              "DocumentMoniker": "C:\\Git\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\PruebaBff.Core\\PruebaBff.Core.csproj",
+              "RelativeDocumentMoniker": "PruebaBff.Core\\PruebaBff.Core.csproj",
+              "ToolTip": "C:\\Git\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\PruebaBff.Core\\PruebaBff.Core.csproj",
+              "RelativeToolTip": "PruebaBff.Core\\PruebaBff.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-15T20:36:18.638Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
